@@ -34,6 +34,7 @@
   * [后台&权限&工作流管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%90%8E%E5%8F%B0%E6%9D%83%E9%99%90%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fadminrbacworkflow)
   * [商城项目系统（Shop）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE%E7%B3%BB%E7%BB%9Fshop)
   * [仓库管理系统（WMS）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fwms)
+  * [制造执行系统（MES）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%88%B6%E9%80%A0%E6%89%A7%E8%A1%8C%E7%B3%BB%E7%BB%9Fmes) 
   * [内容管理系统（CMS）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fcms)
   * [客户关系管理系统（CRM）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%A2%E6%88%B7%E5%85%B3%E7%B3%BB%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fcrm)
   * [企业资源计划系统（ERP）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BC%81%E4%B8%9A%E8%B5%84%E6%BA%90%E8%AE%A1%E5%88%92%E7%B3%BB%E7%BB%9Ferp)
@@ -398,6 +399,19 @@
 |  3  | [ZEQP.WMS](https://github.com/awesomedotnetcore/WMS/) | ZEQP是一个.NET Core开源、跨平台的仓储管理系统，数据库支持MSSQL/MySQL。 | https://github.com/awesomedotnetcore/WMS/ |
 |  2   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) |   KopSoftWms是.NET开源免费的WMS仓库管理系统。    | https://github.com/lysilver/KopSoftWms |
 |  1   |  [ModernWMS](https://github.com/fjykTec/ModernWMS)   | ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。 |https://github.com/fjykTec/ModernWMS|
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 制造执行系统（MES）
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [iMES工厂管家](https://gitee.com/ZM-Rid/imes) | 一款基于.NetCore3.1和Vue3的MES管理系统。项目亮点：模版打印，Excel模版导出，自定义实体扩展，移动端精美设计，大屏设计等功能。 | https://gitee.com/ZM-Rid/imes |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -829,7 +843,7 @@
 |  19  |  |  |  |
 |  18  |  |  |  |
 |  17  |  |  |  |
-|  16  |  |  |  |
+|  16  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
 |  15  | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
 |  14  | [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一键自动化 下载、安装、激活 Office 的利器。 | https://github.com/OdysseusYuan/LKY_OfficeTools |
 |  13  | [Camelotia](https://github.com/reactiveui/Camelotia) | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 | https://github.com/reactiveui/Camelotia |
@@ -1160,7 +1174,7 @@
 | 10  |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
-|  7  |  |  |  |
+|  7  | [ArchUnitNET](https://github.com/TNG/ArchUnitNET) | 一个 C# 架构测试库，用于在 C# 中指定和断言架构规则，以进行自动测试。 | https://github.com/TNG/ArchUnitNET |
 |  6  | [alipay-sdk-net-all](https://github.com/alipay/alipay-sdk-net-all) | Alipay SDK for .NET，SDK可以自动帮您满足能力调用过程中所需的证书校验、加签、验签、发送HTTP请求等非功能性要求。 | https://github.com/alipay/alipay-sdk-net-all |
 |  5  | [sentry-dotnet](https://github.com/dotNetTreasury/sentry-dotnet) | Sentry SDK for .NET。 | https://github.com/dotNetTreasury/sentry-dotnet |
 |  4  | [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net) | Azure SDK for .NET是一组用于.NET开发人员的库和工具，可帮助他们轻松地在Azure云中构建、部署和管理应用程序。该项目为开发人员提供了访问Azure服务所需的一切功能、API和工具，包括对云中常见任务的支持，如虚拟机、存储、网络、应用程序服务、容器等。此项目的主要目的是简化.NET开发人员与Azure云交互的过程，并提高其效率。通过使用Azure SDK for .NET，开发人员可以更快速、更轻松地将应用程序部署到Azure云中，从而实现更快的上线时间和更高的生产力。 | https://github.com/Azure/azure-sdk-for-net |
